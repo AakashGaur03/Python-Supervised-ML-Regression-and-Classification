@@ -50,3 +50,13 @@
 
 # Sensitive to slope of the line:
 # Depending on how the line is fit (blue line vs green line), the predictions change a lot. There is no guarantee it will properly separate 0’s and 1’s.
+
+
+
+# Let’s say you are creating a tumor detection algorithm. Your algorithm will be used to flag potential tumors for future inspection by a specialist. What value should you use for a threshold?
+
+# High, say a threshold of 0.9?
+# Low, say a threshold of 0.2?
+
+# Correct
+# Correct: You would not want to miss a potential tumor, so you will want a low threshold. A specialist will review the output of the algorithm which reduces the possibility of a ‘false positive’. The key point of this question is to note that the threshold value does not need to be 0.5.
