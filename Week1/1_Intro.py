@@ -25,3 +25,5 @@
 # Dimensionality Reduction
 # Take a big data set and let us magically compress it
 # Compress data using fewer numbers losing as little info as possible
+
+# REVISITED

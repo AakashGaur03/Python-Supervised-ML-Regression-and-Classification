@@ -2,4 +2,4 @@
 
 # Not just minimum cost function for linear regression for any function
 
- 
+# REVISITED
