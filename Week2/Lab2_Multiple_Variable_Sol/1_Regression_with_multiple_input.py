@@ -19,3 +19,5 @@
 # numpy dot function
 # much faster than both approach above because nunpy uses parallel hardware in your computer
 # f = np.dot(w,x) + b
+
+## REVISITED

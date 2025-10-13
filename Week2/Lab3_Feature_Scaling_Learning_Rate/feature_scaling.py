@@ -1,4 +1,4 @@
-# We rescale the data as in larger data values it is slow to calculate gradient descent
+# We rescale the data, because in larger data values it is slow to calculate gradient descent
 
 # so For Example
 
@@ -19,3 +19,5 @@
 # There are different Techniques to do so 
 # For example Divide each value by the maximim value for the feature 
 # we will see in depth in Future Lab
+
+## REVISITED
