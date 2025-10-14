@@ -1,4 +1,4 @@
-# Feature Engineering is in which we use our knowledge or intution about the porblem tod design new features usually by transforming or combining orginal Features making easier for learning algorithm to make accurate predictions
+# Feature Engineering is in which we use our knowledge or intution about the problem to design new features usually by transforming or combining orginal Features making easier for learning algorithm to make accurate predictions
 
 
 # Polynomial Regression
@@ -7,3 +7,5 @@
 # or
 # using square roots
 # we will discuss in depth
+
+## REVISITED
