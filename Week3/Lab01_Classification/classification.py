@@ -60,3 +60,5 @@
 
 # Correct
 # Correct: You would not want to miss a potential tumor, so you will want a low threshold. A specialist will review the output of the algorithm which reduces the possibility of a ‘false positive’. The key point of this question is to note that the threshold value does not need to be 0.5.
+
+## REVISITED
